@@ -1,0 +1,8 @@
+title: "Bruin SMV"
+theme: null  # Disable GitHub's default theme
+markdown: kramdown
+
+exclude:
+  - README.md
+  - .gitignore
+  - CNAME
